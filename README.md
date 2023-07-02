@@ -1,2 +1,2 @@
-# sol_ong-m
-ddd
+#So_long First 2d game project in cursus 42
+ENJOY PLAYING.... :) 
